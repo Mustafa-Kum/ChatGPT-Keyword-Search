@@ -1,7 +1,7 @@
 import requests
 
 # List of websites to search
-websites = ['https://infosecwriteups.com/using-chatgpt-to-create-darkweb-monitoring-tool-7b7eeaab351f', 'https://www.another-example.com']
+websites = ['example.com', 'example2.com']
 
 # Keyword to search for
 keyword = 'python'
